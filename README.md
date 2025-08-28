@@ -12,7 +12,7 @@ For each image below, the command is blocked out. Write your answer as the UNIX 
 ![img1](imgs/img1.png)
 
 ```
-ls .
+ls
 ```
 --- 
 
@@ -20,7 +20,7 @@ ls .
 ![img2](imgs/img2.png)
 
 ```
-mv
+cp
 ```
 --- 
 
